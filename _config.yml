@@ -9,12 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : arunk's Development Blog
+title : arunk
 tagline: A blog about open source work
 author :
   name : arun kumar
   email : arunkakorp@gmail.com
   github : arunk
+  twitter: diyfixin
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

@@ -5,4 +5,6 @@ tagline: github page
 ---
 {% include JB/setup %}
 
-This is a simple first page
+Highlighted projects:
+
+* [Auto app](https://github.com/digitatorin/auto-app)
