@@ -1,10 +1,10 @@
 ---
 layout: page
-title: arunk
+title: development blog
 tagline: github page
 ---
 {% include JB/setup %}
 
-Highlighted projects:
+Projects:
 
 * [Auto app](https://github.com/digitatorin/auto-app)
