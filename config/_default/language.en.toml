@@ -1,0 +1,12 @@
+title = "arunk"
+
+[params.author]
+name = "arun kumar"
+image = "img/author.jpg"
+headline = "A blog about open source work"
+bio = "arun kumar"
+links = [
+  { github = "https://github.com/arunk" },
+  { twitter = "https://twitter.com/diyfixin" },
+  { email = "mailto:arunkakorp@gmail.com" }
+]
